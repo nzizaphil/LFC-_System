@@ -103,3 +103,4 @@ This is a simple and practical setup that fits the app requirements.
 
 * **Jira:** [[LFTASK/summary](https://phil-nziza.atlassian.net/jira/software/projects/LFTASK/summary)]
 * **Deployed Website:** [[Online](http://3.106.166.181)]
+* **Instance Link:** [[Link](https://ap-southeast-2.console.aws.amazon.com/ec2/home?region=ap-southeast-2#InstanceDetails:instanceId=i-0f41cc31bd3de33ea)]
